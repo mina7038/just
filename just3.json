@@ -1,0 +1,35 @@
+[{
+    id: 10,
+    title: "Palace",
+    imgUrl: "img/Just11.webp",
+    content: "Palace Stronger For Longer T-Shirt Black - 25SS",
+    price: 119000,
+},
+{
+    id: 11,
+    title: "Undermycar",
+    imgUrl: "img/Just12.webp",
+    content: "Undermycar 25SS Workers Distressed Dirty Painting Carpenter",
+    price: 215100,
+},
+{
+    id: 12,
+    title: "Ancient Greek Sandals",
+    imgUrl: "img/Just13.webp",
+    content: "Ancient Greek Sandals Narkisos Black - 25SS",
+    price: 415000,
+},
+{
+    id: 13,
+    title: "Perverze",
+    imgUrl: "img/Just14.webp",
+    content: "Perverze Women Washed Leather Skirt - 25SS",
+    price: 748000,
+},
+{
+    id: 14,
+    title: "N ARCHIVE",
+    imgUrl: "img/Just15.webp",
+    content: "N ARCHIVE Vintage Garment Cotton Belted Cargo Pants Khak",
+    price: 197600,
+}]
