@@ -7,7 +7,7 @@
         "imgUrl": "img/clothes6.webp",
         "price": 202000,
         "buy": "즉시 구매가",
-        "logo": "img/Jordan.webp",
+        "logo": "img/Jordan.webp"
     },{
         "id": 6,
         "brand": "Kiwoom Heroes",
@@ -17,7 +17,7 @@
         "imgUrl": "img/clothes7.webp",
         "price": 249000,
         "buy": "즉시 구매가",
-        "logo": "img/Kiwoom Heroes.webp",
+        "logo": "img/Kiwoom Heroes.webp"
     },{
         "id": 7,
         "brand": "NOMANUAL",
@@ -27,9 +27,8 @@
         "imgUrl": "img/clothes8.webp",
         "price": 231000,
         "buy": "구매가",
-        "logo": "img/NOMANUAL.webp",
-    },
-    {
+        "logo": "img/NOMANUAL.webp"
+    },{
         "id": 8,
         "brand": "JTK ARTISANAL",
         "brandkr": "준태킴 · 관심 1",
@@ -38,9 +37,8 @@
         "imgUrl": "img/clothes9.webp",
         "price": 229000,
         "buy": "구매가",
-        "logo": "img/JTK ARTISANAL.webp",
-    },
-    {
+        "logo": "img/JTK ARTISANAL.webp"
+    },{
         "id": 9,
         "brand": "Undermycar",
         "brandkr": "언더마이카 · 관심 1.5만",
@@ -49,5 +47,5 @@
         "imgUrl": "img/clothes10.webp",
         "price": 109000,
         "buy": "구매가",
-        "logo": "img/Undermycar.webp",
+        "logo": "img/Undermycar.webp"
     }]
