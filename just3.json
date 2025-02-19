@@ -1,40 +1,55 @@
 [{
-    "id": 10,
-    "title": "Palace",
-    "imgUrl": "img/Just11.webp",
-    "content": "Palace Stronger For Longer T-Shirt Black - 25SS",
-    "price": 119000,
-    "now":"즉시구매가"
-},
-{
-    "id": 11,
-    "title": "Undermycar",
-    "imgUrl": "img/Just12.webp",
-    "content": "Undermycar 25SS Workers Distressed Dirty Painting Carpenter",
-    "price": 215100,
-    "now":"즉시구매가"
-},
-{
-    "id": 12,
-    "title": "Ancient Greek Sandals",
-    "imgUrl": "img/Just13.webp",
-    "content": "Ancient Greek Sandals Narkisos Black - 25SS",
-    "price": 415000,
-    "now":"즉시구매가"
-},
-{
-    "id": 13,
-    "title": "Perverze",
-    "imgUrl": "img/Just14.webp",
-    "content": "Perverze Women Washed Leather Skirt - 25SS",
-    "price": 748000,
-    "now":"즉시구매가"
-},
-{
-    "id": 14,
-    "title": "N ARCHIVE",
-    "imgUrl": "img/Just15.webp",
-    "content": "N ARCHIVE Vintage Garment Cotton Belted Cargo Pants Khak",
-    "price": 197600,
-    "now":"즉시구매가"
-}]
+        "id": 10,
+        "brand": "Sage Nation",
+        "brandkr": "세이지 네이션 · 관심 145",
+        "title": "Sage Nation Chisholm Shirt Navy Cornflower Check - 25SS",
+        "titlekr": "세이지 네이션 치스홀름 셔츠 네이비 콘플라워 체크 - 25SS",
+        "imgUrl": "img/clothes11.webp",
+        "price": 765000,
+        "buy": "구매가",
+        "logo": "img/Sage Nation.webp"
+    },
+    {
+        "id": 11,
+        "brand": "Woolrich",
+        "brandkr": "울리치 · 관심 162",
+        "title": "Woolrich Run Sheep S/S Sweatshirt Navy - 25SS",
+        "titlekr": "울리치 런 쉽 S/S 스웨트셔츠 네이비 - 25SS",
+        "imgUrl": "img/clothes12.webp",
+        "price": 235000,
+        "buy": "구매가",
+        "logo": "img/Woolrich.webp"
+    },
+    {
+        "id": 12,
+        "brand": "BLR",
+        "brandkr": "비엘알 · 관심 3,053 · 관심 1.5만",
+        "title": "[KREAM 단독] BLR x POG Divided Curved Line Double Buckle Pants Black",
+        "titlekr": "비엘알 x 포그 디바이디드 커브드 라인 더블 버클 팬츠 블랙",
+        "imgUrl": "img/clothes13.webp",
+        "price": 259000,
+        "buy": "구매가",
+        "logo": "img/BLR.webp"
+    },
+    {
+        "id": 13,
+        "brand": "VINTAGEYE COLLECTORS CLUB",
+        "brandkr": "빈티지아이 콜렉터스 클럽 · 관심 991",
+        "title": "Vintageye Collectors Club Chanel 1990s Premiere 18k Yellow Gold Plated",
+        "titlekr": "빈티지아이콜렉터스클럽 샤넬 1990s 프리미에르 18k 옐로우 골드 플레이트",
+        "imgUrl": "img/clothes14.webp",
+        "price": 4200000,
+        "buy": "구매가",
+        "logo": "img/VINTAGEYE COLLECTORS CLUB.webp"
+    },
+    {
+        "id": 14,
+        "brand": "AMOUPRE",
+        "brandkr": "아모프레 · 관심 233",
+        "title": "AMOUPRE Textured Straight Denim Dark Blue",
+        "titlekr": "아모프레 텍스쳐도 스트레이트 데님 다크 블루",
+        "imgUrl": "img/clothes15.webp",
+        "price": 125000,
+        "buy": "구매가",
+        "logo": "img/AMOUPRE.webp"
+    }]
